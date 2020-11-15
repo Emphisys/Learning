@@ -2,8 +2,24 @@
 # cd = change directory
 # cd .. = change to previous directory
 # ls = list all files within directory
+ls -a = lists all contents of a directory, including hidden files and directories
+ls -l = lists all contents in long format
+ls -t = orders files and directories by the time they were last modified
+Multiple options can be used together, like ls -alt
+# cp = copies files
+# mv = moves and renames files
+# rm = removes files
+# rm -r = removes directories
 # mkdir = make directory
 # touch = creates file but must state file name (touch keyboard.txt)
+# echo = Prints text to the terminal window
+# grep = search
+# man = Print manual or get help for a command
+# cat = Read a file, create a file, and concatenate files
+# | = Pipe
+# nano = is a minimalistic command-line text editor, can create shortcuts for certain commands
+# > = redirects output from stdout to a particular location
+# < = gets input from a particular location, rather than stdin
 
 LEARN THE COMMAND LINE
 Bicycle World
